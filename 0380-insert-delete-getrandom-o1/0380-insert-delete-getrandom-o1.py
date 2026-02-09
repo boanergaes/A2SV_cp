@@ -16,16 +16,14 @@ class RandomizedSet:
             return False
 
         rmv_idx = self.rand_acc[val]
-        to_replace = self.store[-1]
-        self.store[rmv_idx] = to_replace
-        self.rand_acc[to_replace] = rmv_idx
+        self.store[rmv_idx] = self.store[-1]
+        self.rand_acc[self.store[rmv_idx]] = rmv_idx
         self.store.pop()
         del self.rand_acc[val]
         return True
 
     def getRandom(self) -> int:
         return random.choice(self.store)
-        
 # Your RandomizedSet object will be instantiated and called as such:
 # obj = RandomizedSet()
 # param_1 = obj.insert(val)
