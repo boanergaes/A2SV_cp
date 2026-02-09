@@ -7,6 +7,7 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
+| [2553-separate-the-digits-in-an-array](https://github.com/boanergaes/A2SV_cp/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,8 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/boanergaes/A2SV_cp/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
