@@ -26,7 +26,7 @@ for _ in range(n):
     while j < len(t):
         need[t[j]] = need.get(t[j], 0) + 1
         j += 1
-    
+    d
     have = Counter(p)
     
     for k in need:
