@@ -13,6 +13,7 @@ competitive programming - DSA - A2SV
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
@@ -22,6 +23,7 @@ competitive programming - DSA - A2SV
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -46,6 +48,7 @@ competitive programming - DSA - A2SV
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/0242-valid-anagram) |
 | [0722-remove-comments](https://github.com/boanergaes/A2SV_cp/tree/master/0722-remove-comments) |
 ## Math
 |  |
