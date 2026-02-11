@@ -19,6 +19,7 @@ competitive programming - DSA - A2SV
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
 | [0451-sort-characters-by-frequency](https://github.com/boanergaes/A2SV_cp/tree/master/0451-sort-characters-by-frequency) |
+| [1657-determine-if-two-strings-are-close](https://github.com/boanergaes/A2SV_cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/boanergaes/A2SV_cp/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/boanergaes/A2SV_cp/tree/master/3527-find-the-most-common-response) |
 ## Divide and Conquer
@@ -31,6 +32,7 @@ competitive programming - DSA - A2SV
 | [0242-valid-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/boanergaes/A2SV_cp/tree/master/0451-sort-characters-by-frequency) |
+| [1657-determine-if-two-strings-are-close](https://github.com/boanergaes/A2SV_cp/tree/master/1657-determine-if-two-strings-are-close) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -46,6 +48,7 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/boanergaes/A2SV_cp/tree/master/0451-sort-characters-by-frequency) |
+| [1657-determine-if-two-strings-are-close](https://github.com/boanergaes/A2SV_cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/boanergaes/A2SV_cp/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/boanergaes/A2SV_cp/tree/master/3527-find-the-most-common-response) |
 ## Quickselect
@@ -62,6 +65,7 @@ competitive programming - DSA - A2SV
 | [0242-valid-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/boanergaes/A2SV_cp/tree/master/0451-sort-characters-by-frequency) |
 | [0722-remove-comments](https://github.com/boanergaes/A2SV_cp/tree/master/0722-remove-comments) |
+| [1657-determine-if-two-strings-are-close](https://github.com/boanergaes/A2SV_cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/boanergaes/A2SV_cp/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/boanergaes/A2SV_cp/tree/master/3527-find-the-most-common-response) |
 ## Math
