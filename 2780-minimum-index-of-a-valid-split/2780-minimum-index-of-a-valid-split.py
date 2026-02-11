@@ -1,13 +1,13 @@
 class Solution:
     def minimumIndex(self, nums: List[int]) -> int:
         n = len(nums)
-        dominant = 0#Counter(nums).most_common(1)[0][0]
-        max_freq = 0
-        count = Counter(nums)
-        for k, val in count.items():
-            if val > max_freq:
-                max_freq = val
-                dominant = k
+        dominant = Counter(nums).most_common(1)[0][0]
+        # max_freq = 0
+        # count = Counter(nums)
+        # for k, val in count.items():
+        #     if val > max_freq:
+        #         max_freq = val
+        #         dominant = k
         i = 0
         l_count = Counter(nums[:i+1])
         r_count = Counter(nums[i+1:])
