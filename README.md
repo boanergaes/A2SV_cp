@@ -10,6 +10,7 @@ competitive programming - DSA - A2SV
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
+| [0661-image-smoother](https://github.com/boanergaes/A2SV_cp/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/boanergaes/A2SV_cp/tree/master/0722-remove-comments) |
 | [0867-transpose-matrix](https://github.com/boanergaes/A2SV_cp/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/boanergaes/A2SV_cp/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -116,6 +117,7 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/boanergaes/A2SV_cp/tree/master/0073-set-matrix-zeroes) |
+| [0661-image-smoother](https://github.com/boanergaes/A2SV_cp/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/boanergaes/A2SV_cp/tree/master/0867-transpose-matrix) |
 ## Recursion
 |  |
