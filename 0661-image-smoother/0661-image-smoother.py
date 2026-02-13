@@ -7,33 +7,13 @@ class Solution:
 
         for i in range(n):
             for j in range(m):
-                sum = 0
-                sum += img[i][j]
-                tot = 1
-                if i > 0:
-                    sum += img[i-1][j]
-                    tot += 1
-                if i < n-1:
-                    sum += img[i+1][j]
-                    tot += 1
-                if j > 0:
-                    sum += img[i][j-1]
-                    tot += 1
-                if j < m-1:
-                    sum += img[i][j+1]
-                    tot += 1
-                if i > 0 and j > 0:
-                    sum += img[i-1][j-1]
-                    tot += 1
-                if i > 0 and j < m-1:
-                    sum += img[i-1][j+1]
-                    tot += 1
-                if i < n-1 and j > 0:
-                    sum += img[i+1][j-1]
-                    tot += 1
-                if i < n-1 and j < m-1:
-                    sum += img[i+1][j+1]
-                    tot += 1
-                smooth[i][j] = sum//tot
+                total = 0
+                count = 0
+                
+                for r in range(max(i-1, 0), min(i+2, n)):
+                    for c in range(max(j-1, 0), min(j+2, m)):
+                        total += img[r][c]
+                        count += 1
+                smooth[i][j] = total // count                
 
         return smooth
