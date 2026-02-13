@@ -11,7 +11,7 @@ class Solution:
                 if grid[i][j] < 0:
                     neg += (n - i) * (m - j)
                     m = j
-                    continue
+                    break
                 j += 1
 
             if j == 0:
