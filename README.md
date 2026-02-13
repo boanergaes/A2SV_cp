@@ -29,6 +29,7 @@ competitive programming - DSA - A2SV
 | [0202-happy-number](https://github.com/boanergaes/A2SV_cp/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/boanergaes/A2SV_cp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/boanergaes/A2SV_cp/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
@@ -89,6 +90,7 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0013-roman-to-integer](https://github.com/boanergaes/A2SV_cp/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/boanergaes/A2SV_cp/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/boanergaes/A2SV_cp/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/boanergaes/A2SV_cp/tree/master/0451-sort-characters-by-frequency) |
 | [0722-remove-comments](https://github.com/boanergaes/A2SV_cp/tree/master/0722-remove-comments) |
