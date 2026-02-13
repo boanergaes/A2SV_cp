@@ -8,6 +8,7 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/boanergaes/A2SV_cp/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/boanergaes/A2SV_cp/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/boanergaes/A2SV_cp/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
@@ -26,6 +27,7 @@ competitive programming - DSA - A2SV
 | [0073-set-matrix-zeroes](https://github.com/boanergaes/A2SV_cp/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/boanergaes/A2SV_cp/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/boanergaes/A2SV_cp/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/boanergaes/A2SV_cp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
@@ -44,6 +46,7 @@ competitive programming - DSA - A2SV
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/boanergaes/A2SV_cp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
