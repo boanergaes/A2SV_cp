@@ -153,4 +153,9 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/boanergaes/A2SV_cp/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/boanergaes/A2SV_cp/tree/master/0338-counting-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/boanergaes/A2SV_cp/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
