@@ -105,6 +105,7 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/boanergaes/A2SV_cp/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/boanergaes/A2SV_cp/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/boanergaes/A2SV_cp/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/boanergaes/A2SV_cp/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -137,6 +138,7 @@ competitive programming - DSA - A2SV
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/boanergaes/A2SV_cp/tree/master/0050-powx-n) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/boanergaes/A2SV_cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
