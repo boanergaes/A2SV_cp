@@ -10,13 +10,15 @@ class Solution:
 
         n = len(heights)
 
-        for i in range(n):
-            max_idx = i
-            for j in range(i+1, n):
-                if heights[j] > heights[max_idx]:
-                    max_idx = j
-
-            heights[i], heights[max_idx] = heights[max_idx], heights[i]
-            names[i], names[max_idx] = names[max_idx], names[i]
+        for i in range(1, n):
+            key = heights[i]
+            kn = names[i]
+            j = i-1
+            while j >= 0 and heights[j] < key:
+                heights[j+1] = heights[j]
+                names[j+1] = names[j]
+                j -= 1
+            heights[j+1] = key
+            names[j+1] = kn
 
         return names
