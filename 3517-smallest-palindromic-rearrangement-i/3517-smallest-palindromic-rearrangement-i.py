@@ -3,8 +3,13 @@ class Solution:
         n = len(s)
         if n == 1:
             return s
+
+        s = list(s)
         srtd = sorted(s[:n//2])
+
         if n%2 != 0:
             srtd.append(s[n//2])
+
         srtd.extend(srtd[n//2 - 1::-1])
+
         return ''.join(srtd)
