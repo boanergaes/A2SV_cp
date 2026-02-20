@@ -46,6 +46,7 @@ competitive programming - DSA - A2SV
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/boanergaes/A2SV_cp/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/boanergaes/A2SV_cp/tree/master/0451-sort-characters-by-frequency) |
+| [0791-custom-sort-string](https://github.com/boanergaes/A2SV_cp/tree/master/0791-custom-sort-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/boanergaes/A2SV_cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/boanergaes/A2SV_cp/tree/master/1657-determine-if-two-strings-are-close) |
@@ -69,6 +70,7 @@ competitive programming - DSA - A2SV
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/boanergaes/A2SV_cp/tree/master/0451-sort-characters-by-frequency) |
+| [0791-custom-sort-string](https://github.com/boanergaes/A2SV_cp/tree/master/0791-custom-sort-string) |
 | [0976-largest-perimeter-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/boanergaes/A2SV_cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/boanergaes/A2SV_cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -119,6 +121,7 @@ competitive programming - DSA - A2SV
 | [0383-ransom-note](https://github.com/boanergaes/A2SV_cp/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/boanergaes/A2SV_cp/tree/master/0451-sort-characters-by-frequency) |
 | [0722-remove-comments](https://github.com/boanergaes/A2SV_cp/tree/master/0722-remove-comments) |
+| [0791-custom-sort-string](https://github.com/boanergaes/A2SV_cp/tree/master/0791-custom-sort-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/boanergaes/A2SV_cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [2418-sort-the-people](https://github.com/boanergaes/A2SV_cp/tree/master/2418-sort-the-people) |
