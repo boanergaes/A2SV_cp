@@ -20,6 +20,7 @@ competitive programming - DSA - A2SV
 | [0976-largest-perimeter-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0976-largest-perimeter-triangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/boanergaes/A2SV_cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/boanergaes/A2SV_cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/boanergaes/A2SV_cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/boanergaes/A2SV_cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/boanergaes/A2SV_cp/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/boanergaes/A2SV_cp/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -67,6 +68,7 @@ competitive programming - DSA - A2SV
 | [0451-sort-characters-by-frequency](https://github.com/boanergaes/A2SV_cp/tree/master/0451-sort-characters-by-frequency) |
 | [0976-largest-perimeter-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/boanergaes/A2SV_cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/boanergaes/A2SV_cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1657-determine-if-two-strings-are-close](https://github.com/boanergaes/A2SV_cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/boanergaes/A2SV_cp/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/boanergaes/A2SV_cp/tree/master/2418-sort-the-people) |
@@ -129,6 +131,7 @@ competitive programming - DSA - A2SV
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
 | [0728-self-dividing-numbers](https://github.com/boanergaes/A2SV_cp/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0976-largest-perimeter-triangle) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/boanergaes/A2SV_cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/boanergaes/A2SV_cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Design
 |  |
@@ -184,10 +187,15 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0179-largest-number](https://github.com/boanergaes/A2SV_cp/tree/master/0179-largest-number) |
 | [0976-largest-perimeter-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0976-largest-perimeter-triangle) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/boanergaes/A2SV_cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2007-find-original-array-from-doubled-array](https://github.com/boanergaes/A2SV_cp/tree/master/2007-find-original-array-from-doubled-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/boanergaes/A2SV_cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/boanergaes/A2SV_cp/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/boanergaes/A2SV_cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
