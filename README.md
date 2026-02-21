@@ -33,6 +33,7 @@ competitive programming - DSA - A2SV
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/boanergaes/A2SV_cp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/boanergaes/A2SV_cp/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/boanergaes/A2SV_cp/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/boanergaes/A2SV_cp/tree/master/0128-longest-consecutive-sequence) |
@@ -114,6 +115,7 @@ competitive programming - DSA - A2SV
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/boanergaes/A2SV_cp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/boanergaes/A2SV_cp/tree/master/0013-roman-to-integer) |
 | [0179-largest-number](https://github.com/boanergaes/A2SV_cp/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/0242-valid-anagram) |
@@ -205,4 +207,8 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/boanergaes/A2SV_cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/boanergaes/A2SV_cp/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
