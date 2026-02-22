@@ -12,6 +12,7 @@ competitive programming - DSA - A2SV
 | [0179-largest-number](https://github.com/boanergaes/A2SV_cp/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/boanergaes/A2SV_cp/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/boanergaes/A2SV_cp/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
@@ -68,6 +69,7 @@ competitive programming - DSA - A2SV
 | [0217-contains-duplicate](https://github.com/boanergaes/A2SV_cp/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/boanergaes/A2SV_cp/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/boanergaes/A2SV_cp/tree/master/0451-sort-characters-by-frequency) |
@@ -201,6 +203,7 @@ competitive programming - DSA - A2SV
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/boanergaes/A2SV_cp/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/boanergaes/A2SV_cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/boanergaes/A2SV_cp/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
