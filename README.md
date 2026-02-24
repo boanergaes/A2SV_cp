@@ -6,6 +6,7 @@ competitive programming - DSA - A2SV
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/boanergaes/A2SV_cp/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/boanergaes/A2SV_cp/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/boanergaes/A2SV_cp/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/boanergaes/A2SV_cp/tree/master/0128-longest-consecutive-sequence) |
@@ -162,6 +163,7 @@ competitive programming - DSA - A2SV
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/boanergaes/A2SV_cp/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/boanergaes/A2SV_cp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/boanergaes/A2SV_cp/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
@@ -206,6 +208,7 @@ competitive programming - DSA - A2SV
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/boanergaes/A2SV_cp/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/boanergaes/A2SV_cp/tree/master/0179-largest-number) |
 | [0881-boats-to-save-people](https://github.com/boanergaes/A2SV_cp/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0976-largest-perimeter-triangle) |
