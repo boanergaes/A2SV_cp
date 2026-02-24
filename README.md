@@ -148,6 +148,7 @@ competitive programming - DSA - A2SV
 | [0050-powx-n](https://github.com/boanergaes/A2SV_cp/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/boanergaes/A2SV_cp/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
+| [0633-sum-of-square-numbers](https://github.com/boanergaes/A2SV_cp/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/boanergaes/A2SV_cp/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0976-largest-perimeter-triangle) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/boanergaes/A2SV_cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -167,6 +168,7 @@ competitive programming - DSA - A2SV
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/boanergaes/A2SV_cp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/boanergaes/A2SV_cp/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/boanergaes/A2SV_cp/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/boanergaes/A2SV_cp/tree/master/0881-boats-to-save-people) |
 | [2460-apply-operations-to-an-array](https://github.com/boanergaes/A2SV_cp/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/boanergaes/A2SV_cp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -174,6 +176,7 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/boanergaes/A2SV_cp/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/boanergaes/A2SV_cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
