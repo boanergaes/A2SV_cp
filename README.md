@@ -120,6 +120,7 @@ competitive programming - DSA - A2SV
 | [0003-longest-substring-without-repeating-characters](https://github.com/boanergaes/A2SV_cp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/boanergaes/A2SV_cp/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/boanergaes/A2SV_cp/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/boanergaes/A2SV_cp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/boanergaes/A2SV_cp/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/boanergaes/A2SV_cp/tree/master/0290-word-pattern) |
@@ -156,6 +157,7 @@ competitive programming - DSA - A2SV
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/boanergaes/A2SV_cp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/boanergaes/A2SV_cp/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
 | [2460-apply-operations-to-an-array](https://github.com/boanergaes/A2SV_cp/tree/master/2460-apply-operations-to-an-array) |
@@ -215,4 +217,8 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/boanergaes/A2SV_cp/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/boanergaes/A2SV_cp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
