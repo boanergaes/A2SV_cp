@@ -5,20 +5,35 @@ n = int(input())
 for _ in range(n):
     s = input()
     t = input()
-    count = Counter(t)
-    for k in s:
-        count[k] -= 1
-    count = sorted(count.items())
-    before = []
-    after = []
-    for k in count:
-        if k[0] < s:
-            for _ in range(k[1]):
-                before.append(k[0])
+    count_s = Counter(s)
+    count_t = Counter(t)
+    
+    if not (count_s <= count_t):
+        print('Impossible')
+        continue
+
+    for k in count_s:
+        count_t[k] -= count_s[k]
+        
+    count_t = sorted(count_t.items())
+    
+    tt = []
+    for k, v in count_t:
+        for _ in range(v):
+            tt.append(k)
+            
+    ans = []
+    i = 0
+    j = 0
+    while i < len(s) and j < len(tt):
+        if s[i] <= tt[j]:
+            ans.append(s[i])
+            i += 1
         else:
-            for _ in range(k[1]):
-                after.append(k[0])
+            ans.append(tt[j])
+            j += 1
+            
+    ans.append(s[i:])
+    ans.extend(tt[j:])
     
-    # print(before, s, after)
-    print(''.join(before) + s + ''.join(after)  if Counter(s) <= Counter(t) else 'Impossible')
-    
+    print(''.join(ans))
