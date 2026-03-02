@@ -15,6 +15,7 @@ competitive programming - DSA - A2SV
 | [0229-majority-element-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/boanergaes/A2SV_cp/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
@@ -166,6 +167,7 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -194,6 +196,7 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0048-rotate-image](https://github.com/boanergaes/A2SV_cp/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/boanergaes/A2SV_cp/tree/master/0073-set-matrix-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0304-range-sum-query-2d-immutable) |
 | [0661-image-smoother](https://github.com/boanergaes/A2SV_cp/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/boanergaes/A2SV_cp/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/boanergaes/A2SV_cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -254,6 +257,7 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0304-range-sum-query-2d-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/boanergaes/A2SV_cp/tree/master/1480-running-sum-of-1d-array) |
 | [2381-shifting-letters-ii](https://github.com/boanergaes/A2SV_cp/tree/master/2381-shifting-letters-ii) |
 <!---LeetCode Topics End-->
