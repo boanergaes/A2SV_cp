@@ -3,9 +3,7 @@ class NumMatrix:
     def __init__(self, matrix: List[List[int]]):
         n = len(matrix)
         m = len(matrix[0])
-        self.psum = []
-        for _ in range(n+1):
-            self.psum.append([0] * (m+1))
+        self.psum = [[0]*(m+1) for _ in range(n+1)]
         for i in range(n):
             for j in range(m):
                 self.psum[i+1][j+1] = matrix[i][j] + self.psum[i+1][j] + self.psum[i][j+1] - self.psum[i][j]
