@@ -14,6 +14,7 @@ competitive programming - DSA - A2SV
 | [0179-largest-number](https://github.com/boanergaes/A2SV_cp/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/boanergaes/A2SV_cp/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/boanergaes/A2SV_cp/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/boanergaes/A2SV_cp/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0304-range-sum-query-2d-immutable) |
@@ -259,6 +260,7 @@ competitive programming - DSA - A2SV
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/boanergaes/A2SV_cp/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0304-range-sum-query-2d-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/boanergaes/A2SV_cp/tree/master/1480-running-sum-of-1d-array) |
