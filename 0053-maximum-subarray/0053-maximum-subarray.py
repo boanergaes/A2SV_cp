@@ -1,16 +1,11 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         n = len(nums)
-        psum = [0]
-        max_tot = float('-inf')
+        max_tot = nums[0]
 
-        for j in range(n):
-            if psum[-1] < 0:
-                psum.append(nums[j])
-            else:
-                psum.append(psum[-1] + nums[j])
-            max_tot = max(max_tot, psum[-1])
-
-        print(psum)
+        for j in range(1, n):
+            if nums[j-1] >= 0:
+                nums[j] += nums[j-1]
+            max_tot = max(max_tot, nums[j])
 
         return max_tot
