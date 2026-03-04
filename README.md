@@ -8,6 +8,7 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0011-container-with-most-water](https://github.com/boanergaes/A2SV_cp/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/boanergaes/A2SV_cp/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/boanergaes/A2SV_cp/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/boanergaes/A2SV_cp/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/boanergaes/A2SV_cp/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/boanergaes/A2SV_cp/tree/master/0179-largest-number) |
@@ -71,6 +72,7 @@ competitive programming - DSA - A2SV
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/boanergaes/A2SV_cp/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/boanergaes/A2SV_cp/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -221,6 +223,7 @@ competitive programming - DSA - A2SV
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/boanergaes/A2SV_cp/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/boanergaes/A2SV_cp/tree/master/0338-counting-bits) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/boanergaes/A2SV_cp/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
