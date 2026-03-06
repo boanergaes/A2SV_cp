@@ -26,6 +26,7 @@ competitive programming - DSA - A2SV
 | [0867-transpose-matrix](https://github.com/boanergaes/A2SV_cp/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/boanergaes/A2SV_cp/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0976-largest-perimeter-triangle) |
+| [0992-subarrays-with-k-different-integers](https://github.com/boanergaes/A2SV_cp/tree/master/0992-subarrays-with-k-different-integers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/boanergaes/A2SV_cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/boanergaes/A2SV_cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/boanergaes/A2SV_cp/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -63,6 +64,7 @@ competitive programming - DSA - A2SV
 | [0451-sort-characters-by-frequency](https://github.com/boanergaes/A2SV_cp/tree/master/0451-sort-characters-by-frequency) |
 | [0763-partition-labels](https://github.com/boanergaes/A2SV_cp/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/boanergaes/A2SV_cp/tree/master/0791-custom-sort-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/boanergaes/A2SV_cp/tree/master/0992-subarrays-with-k-different-integers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/boanergaes/A2SV_cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/boanergaes/A2SV_cp/tree/master/1657-determine-if-two-strings-are-close) |
@@ -117,6 +119,7 @@ competitive programming - DSA - A2SV
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/boanergaes/A2SV_cp/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/boanergaes/A2SV_cp/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/boanergaes/A2SV_cp/tree/master/0992-subarrays-with-k-different-integers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/boanergaes/A2SV_cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/boanergaes/A2SV_cp/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -257,6 +260,7 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/boanergaes/A2SV_cp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/boanergaes/A2SV_cp/tree/master/0424-longest-repeating-character-replacement) |
+| [0992-subarrays-with-k-different-integers](https://github.com/boanergaes/A2SV_cp/tree/master/0992-subarrays-with-k-different-integers) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/boanergaes/A2SV_cp/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## String Matching
 |  |
