@@ -182,6 +182,7 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/boanergaes/A2SV_cp/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/boanergaes/A2SV_cp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/boanergaes/A2SV_cp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/boanergaes/A2SV_cp/tree/master/0202-happy-number) |
@@ -273,6 +274,7 @@ competitive programming - DSA - A2SV
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/boanergaes/A2SV_cp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/boanergaes/A2SV_cp/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
