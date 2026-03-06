@@ -19,7 +19,7 @@ class Solution:
                 near_left += 1
                 far_left = near_left
             
-            while (window[nums[near_left]] > 1 and window[nums[right]] > 1) or window[nums[near_left]] > 1:
+            while window[nums[near_left]] > 1:
                 dec_wind(window, nums[near_left])
                 near_left += 1
             
