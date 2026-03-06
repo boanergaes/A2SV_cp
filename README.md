@@ -153,6 +153,7 @@ competitive programming - DSA - A2SV
 | [0791-custom-sort-string](https://github.com/boanergaes/A2SV_cp/tree/master/0791-custom-sort-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/boanergaes/A2SV_cp/tree/master/1657-determine-if-two-strings-are-close) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/boanergaes/A2SV_cp/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2381-shifting-letters-ii](https://github.com/boanergaes/A2SV_cp/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/boanergaes/A2SV_cp/tree/master/2418-sort-the-people) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/boanergaes/A2SV_cp/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
