@@ -133,6 +133,7 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0867-transpose-matrix](https://github.com/boanergaes/A2SV_cp/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/boanergaes/A2SV_cp/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2390-removing-stars-from-a-string](https://github.com/boanergaes/A2SV_cp/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/boanergaes/A2SV_cp/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/boanergaes/A2SV_cp/tree/master/2553-separate-the-digits-in-an-array) |
 ## String
@@ -156,6 +157,7 @@ competitive programming - DSA - A2SV
 | [1657-determine-if-two-strings-are-close](https://github.com/boanergaes/A2SV_cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/boanergaes/A2SV_cp/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2381-shifting-letters-ii](https://github.com/boanergaes/A2SV_cp/tree/master/2381-shifting-letters-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/boanergaes/A2SV_cp/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/boanergaes/A2SV_cp/tree/master/2418-sort-the-people) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/boanergaes/A2SV_cp/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/boanergaes/A2SV_cp/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -287,4 +289,5 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/boanergaes/A2SV_cp/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/boanergaes/A2SV_cp/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
