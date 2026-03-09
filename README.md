@@ -141,6 +141,7 @@ competitive programming - DSA - A2SV
 | [0003-longest-substring-without-repeating-characters](https://github.com/boanergaes/A2SV_cp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/boanergaes/A2SV_cp/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/boanergaes/A2SV_cp/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/boanergaes/A2SV_cp/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/boanergaes/A2SV_cp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/boanergaes/A2SV_cp/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/0242-valid-anagram) |
@@ -282,4 +283,8 @@ competitive programming - DSA - A2SV
 | [0019-remove-nth-node-from-end-of-list](https://github.com/boanergaes/A2SV_cp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/boanergaes/A2SV_cp/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/boanergaes/A2SV_cp/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
