@@ -22,6 +22,7 @@ competitive programming - DSA - A2SV
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
+| [0523-continuous-subarray-sum](https://github.com/boanergaes/A2SV_cp/tree/master/0523-continuous-subarray-sum) |
 | [0661-image-smoother](https://github.com/boanergaes/A2SV_cp/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/boanergaes/A2SV_cp/tree/master/0722-remove-comments) |
 | [0739-daily-temperatures](https://github.com/boanergaes/A2SV_cp/tree/master/0739-daily-temperatures) |
@@ -66,6 +67,7 @@ competitive programming - DSA - A2SV
 | [0383-ransom-note](https://github.com/boanergaes/A2SV_cp/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/boanergaes/A2SV_cp/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/boanergaes/A2SV_cp/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/boanergaes/A2SV_cp/tree/master/0523-continuous-subarray-sum) |
 | [0763-partition-labels](https://github.com/boanergaes/A2SV_cp/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/boanergaes/A2SV_cp/tree/master/0791-custom-sort-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/boanergaes/A2SV_cp/tree/master/0992-subarrays-with-k-different-integers) |
@@ -176,6 +178,7 @@ competitive programming - DSA - A2SV
 | [0050-powx-n](https://github.com/boanergaes/A2SV_cp/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/boanergaes/A2SV_cp/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
+| [0523-continuous-subarray-sum](https://github.com/boanergaes/A2SV_cp/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/boanergaes/A2SV_cp/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/boanergaes/A2SV_cp/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0976-largest-perimeter-triangle) |
@@ -287,6 +290,7 @@ competitive programming - DSA - A2SV
 | [0238-product-of-array-except-self](https://github.com/boanergaes/A2SV_cp/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/boanergaes/A2SV_cp/tree/master/0523-continuous-subarray-sum) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/boanergaes/A2SV_cp/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/boanergaes/A2SV_cp/tree/master/1480-running-sum-of-1d-array) |
 | [2381-shifting-letters-ii](https://github.com/boanergaes/A2SV_cp/tree/master/2381-shifting-letters-ii) |
