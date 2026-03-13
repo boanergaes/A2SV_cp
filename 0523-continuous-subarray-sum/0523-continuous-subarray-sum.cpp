@@ -7,9 +7,10 @@ public:
 
         for (int i = 0; i < nums.size(); i++) {
             running += nums[i];
-            if (ref.contains(running % k)) {
-                if (i - ref[running % k] > 1) return true;
-            } else ref[running % k] = i;
+            int r = running % k;
+            if (ref.contains(r)) {
+                if (i - ref[r] > 1) return true;
+            } else ref[r] = i;
         }
 
         return false;
