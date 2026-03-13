@@ -29,6 +29,7 @@ competitive programming - DSA - A2SV
 | [0881-boats-to-save-people](https://github.com/boanergaes/A2SV_cp/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0976-largest-perimeter-triangle) |
 | [0992-subarrays-with-k-different-integers](https://github.com/boanergaes/A2SV_cp/tree/master/0992-subarrays-with-k-different-integers) |
+| [1029-two-city-scheduling](https://github.com/boanergaes/A2SV_cp/tree/master/1029-two-city-scheduling) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/boanergaes/A2SV_cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/boanergaes/A2SV_cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/boanergaes/A2SV_cp/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -97,6 +98,7 @@ competitive programming - DSA - A2SV
 | [0791-custom-sort-string](https://github.com/boanergaes/A2SV_cp/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/boanergaes/A2SV_cp/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0976-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/boanergaes/A2SV_cp/tree/master/1029-two-city-scheduling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/boanergaes/A2SV_cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/boanergaes/A2SV_cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1657-determine-if-two-strings-are-close](https://github.com/boanergaes/A2SV_cp/tree/master/1657-determine-if-two-strings-are-close) |
@@ -254,6 +256,7 @@ competitive programming - DSA - A2SV
 | [0763-partition-labels](https://github.com/boanergaes/A2SV_cp/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/boanergaes/A2SV_cp/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0976-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/boanergaes/A2SV_cp/tree/master/1029-two-city-scheduling) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/boanergaes/A2SV_cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2007-find-original-array-from-doubled-array](https://github.com/boanergaes/A2SV_cp/tree/master/2007-find-original-array-from-doubled-array) |
 ## Counting Sort
