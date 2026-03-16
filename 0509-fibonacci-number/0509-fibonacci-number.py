@@ -1,8 +1,12 @@
 class Solution:
     def fib(self, n: int) -> int:
-        if n == 0:
-            return 0
-        if n == 1:
-            return 1
+        fib_arr = [0]
+        for i in range(1, n+1):
+            if i == 1:
+                fib_arr.append(1)
+                continue
+            
+            fib_arr.append(fib_arr[-1] + fib_arr[-2])
         
-        return self.fib(n-1) + self.fib(n-2)
+        return fib_arr[-1]
+            
