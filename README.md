@@ -180,6 +180,7 @@ competitive programming - DSA - A2SV
 | [0050-powx-n](https://github.com/boanergaes/A2SV_cp/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/boanergaes/A2SV_cp/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
+| [0509-fibonacci-number](https://github.com/boanergaes/A2SV_cp/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/boanergaes/A2SV_cp/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/boanergaes/A2SV_cp/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/boanergaes/A2SV_cp/tree/master/0728-self-dividing-numbers) |
@@ -230,6 +231,7 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/boanergaes/A2SV_cp/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/boanergaes/A2SV_cp/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/boanergaes/A2SV_cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -251,6 +253,7 @@ competitive programming - DSA - A2SV
 | [0053-maximum-subarray](https://github.com/boanergaes/A2SV_cp/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/boanergaes/A2SV_cp/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/boanergaes/A2SV_cp/tree/master/0338-counting-bits) |
+| [0509-fibonacci-number](https://github.com/boanergaes/A2SV_cp/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/boanergaes/A2SV_cp/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
@@ -321,4 +324,8 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/boanergaes/A2SV_cp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/boanergaes/A2SV_cp/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
