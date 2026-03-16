@@ -11,6 +11,7 @@ competitive programming - DSA - A2SV
 | [0053-maximum-subarray](https://github.com/boanergaes/A2SV_cp/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/boanergaes/A2SV_cp/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/boanergaes/A2SV_cp/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/boanergaes/A2SV_cp/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/boanergaes/A2SV_cp/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/boanergaes/A2SV_cp/tree/master/0217-contains-duplicate) |
@@ -252,6 +253,7 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0053-maximum-subarray](https://github.com/boanergaes/A2SV_cp/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/boanergaes/A2SV_cp/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/boanergaes/A2SV_cp/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/boanergaes/A2SV_cp/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/boanergaes/A2SV_cp/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
