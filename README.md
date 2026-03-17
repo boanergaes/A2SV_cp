@@ -42,6 +42,7 @@ competitive programming - DSA - A2SV
 | [1480-running-sum-of-1d-array](https://github.com/boanergaes/A2SV_cp/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/boanergaes/A2SV_cp/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/boanergaes/A2SV_cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1598-crawler-log-folder](https://github.com/boanergaes/A2SV_cp/tree/master/1598-crawler-log-folder) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/boanergaes/A2SV_cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/boanergaes/A2SV_cp/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/boanergaes/A2SV_cp/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -168,6 +169,7 @@ competitive programming - DSA - A2SV
 | [0763-partition-labels](https://github.com/boanergaes/A2SV_cp/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/boanergaes/A2SV_cp/tree/master/0791-custom-sort-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1598-crawler-log-folder](https://github.com/boanergaes/A2SV_cp/tree/master/1598-crawler-log-folder) |
 | [1657-determine-if-two-strings-are-close](https://github.com/boanergaes/A2SV_cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/boanergaes/A2SV_cp/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2381-shifting-letters-ii](https://github.com/boanergaes/A2SV_cp/tree/master/2381-shifting-letters-ii) |
@@ -323,6 +325,7 @@ competitive programming - DSA - A2SV
 | [0020-valid-parentheses](https://github.com/boanergaes/A2SV_cp/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/boanergaes/A2SV_cp/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/boanergaes/A2SV_cp/tree/master/1472-design-browser-history) |
+| [1598-crawler-log-folder](https://github.com/boanergaes/A2SV_cp/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/boanergaes/A2SV_cp/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
