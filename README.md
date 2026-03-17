@@ -83,6 +83,7 @@ competitive programming - DSA - A2SV
 | [2007-find-original-array-from-doubled-array](https://github.com/boanergaes/A2SV_cp/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/boanergaes/A2SV_cp/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/boanergaes/A2SV_cp/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/boanergaes/A2SV_cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/boanergaes/A2SV_cp/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/boanergaes/A2SV_cp/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/boanergaes/A2SV_cp/tree/master/3527-find-the-most-common-response) |
@@ -137,6 +138,7 @@ competitive programming - DSA - A2SV
 | [0992-subarrays-with-k-different-integers](https://github.com/boanergaes/A2SV_cp/tree/master/0992-subarrays-with-k-different-integers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/boanergaes/A2SV_cp/tree/master/1657-determine-if-two-strings-are-close) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/boanergaes/A2SV_cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/boanergaes/A2SV_cp/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/boanergaes/A2SV_cp/tree/master/3527-find-the-most-common-response) |
 ## Quickselect
@@ -201,6 +203,7 @@ competitive programming - DSA - A2SV
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
 | [0933-number-of-recent-calls](https://github.com/boanergaes/A2SV_cp/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/boanergaes/A2SV_cp/tree/master/1472-design-browser-history) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/boanergaes/A2SV_cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Randomized
 |  |
 | ------- |
@@ -248,6 +251,7 @@ competitive programming - DSA - A2SV
 | [0933-number-of-recent-calls](https://github.com/boanergaes/A2SV_cp/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/boanergaes/A2SV_cp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/boanergaes/A2SV_cp/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/boanergaes/A2SV_cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Union-Find
 |  |
 | ------- |
@@ -354,4 +358,5 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/boanergaes/A2SV_cp/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/boanergaes/A2SV_cp/tree/master/1472-design-browser-history) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/boanergaes/A2SV_cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
