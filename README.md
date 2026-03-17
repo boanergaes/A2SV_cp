@@ -199,6 +199,7 @@ competitive programming - DSA - A2SV
 | [0303-range-sum-query-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
+| [0933-number-of-recent-calls](https://github.com/boanergaes/A2SV_cp/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/boanergaes/A2SV_cp/tree/master/1472-design-browser-history) |
 ## Randomized
 |  |
@@ -244,6 +245,7 @@ competitive programming - DSA - A2SV
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/boanergaes/A2SV_cp/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/boanergaes/A2SV_cp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/boanergaes/A2SV_cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Union-Find
@@ -350,5 +352,6 @@ competitive programming - DSA - A2SV
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/boanergaes/A2SV_cp/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/boanergaes/A2SV_cp/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
