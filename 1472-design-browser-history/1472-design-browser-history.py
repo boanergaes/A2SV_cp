@@ -7,9 +7,7 @@ class DllNode:
 class BrowserHistory:
 
     def __init__(self, homepage: str):
-        self.head = DllNode(homepage)
-        self.tail = self.head
-        self.curr = self.head
+        self.curr = DllNode(homepage)
 
     def visit(self, url: str) -> None:
         newNode = DllNode(url, None, self.curr)
