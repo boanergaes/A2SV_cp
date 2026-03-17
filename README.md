@@ -24,6 +24,7 @@ competitive programming - DSA - A2SV
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/boanergaes/A2SV_cp/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0496-next-greater-element-i](https://github.com/boanergaes/A2SV_cp/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/boanergaes/A2SV_cp/tree/master/0523-continuous-subarray-sum) |
 | [0661-image-smoother](https://github.com/boanergaes/A2SV_cp/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/boanergaes/A2SV_cp/tree/master/0722-remove-comments) |
@@ -72,6 +73,7 @@ competitive programming - DSA - A2SV
 | [0383-ransom-note](https://github.com/boanergaes/A2SV_cp/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/boanergaes/A2SV_cp/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/boanergaes/A2SV_cp/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/boanergaes/A2SV_cp/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/boanergaes/A2SV_cp/tree/master/0523-continuous-subarray-sum) |
 | [0763-partition-labels](https://github.com/boanergaes/A2SV_cp/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/boanergaes/A2SV_cp/tree/master/0791-custom-sort-string) |
@@ -329,6 +331,7 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/boanergaes/A2SV_cp/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/boanergaes/A2SV_cp/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/boanergaes/A2SV_cp/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/boanergaes/A2SV_cp/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/boanergaes/A2SV_cp/tree/master/1598-crawler-log-folder) |
@@ -336,6 +339,7 @@ competitive programming - DSA - A2SV
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/boanergaes/A2SV_cp/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/boanergaes/A2SV_cp/tree/master/0739-daily-temperatures) |
 ## Ordered Set
 |  |
