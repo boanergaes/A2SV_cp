@@ -232,6 +232,7 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/boanergaes/A2SV_cp/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/boanergaes/A2SV_cp/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/boanergaes/A2SV_cp/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/boanergaes/A2SV_cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -307,6 +308,7 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/boanergaes/A2SV_cp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/boanergaes/A2SV_cp/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/boanergaes/A2SV_cp/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
