@@ -30,6 +30,7 @@ competitive programming - DSA - A2SV
 | [0661-image-smoother](https://github.com/boanergaes/A2SV_cp/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/boanergaes/A2SV_cp/tree/master/0722-remove-comments) |
 | [0739-daily-temperatures](https://github.com/boanergaes/A2SV_cp/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/boanergaes/A2SV_cp/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/boanergaes/A2SV_cp/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/boanergaes/A2SV_cp/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/boanergaes/A2SV_cp/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -287,6 +288,7 @@ competitive programming - DSA - A2SV
 | [0179-largest-number](https://github.com/boanergaes/A2SV_cp/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/boanergaes/A2SV_cp/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0763-partition-labels](https://github.com/boanergaes/A2SV_cp/tree/master/0763-partition-labels) |
+| [0860-lemonade-change](https://github.com/boanergaes/A2SV_cp/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/boanergaes/A2SV_cp/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/boanergaes/A2SV_cp/tree/master/1029-two-city-scheduling) |
