@@ -167,6 +167,7 @@ competitive programming - DSA - A2SV
 | [0242-valid-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/boanergaes/A2SV_cp/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/boanergaes/A2SV_cp/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/boanergaes/A2SV_cp/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/boanergaes/A2SV_cp/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/boanergaes/A2SV_cp/tree/master/0451-sort-characters-by-frequency) |
 | [0722-remove-comments](https://github.com/boanergaes/A2SV_cp/tree/master/0722-remove-comments) |
@@ -245,6 +246,7 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0050-powx-n](https://github.com/boanergaes/A2SV_cp/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/boanergaes/A2SV_cp/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/boanergaes/A2SV_cp/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/boanergaes/A2SV_cp/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/boanergaes/A2SV_cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -333,6 +335,7 @@ competitive programming - DSA - A2SV
 | [0020-valid-parentheses](https://github.com/boanergaes/A2SV_cp/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/boanergaes/A2SV_cp/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/boanergaes/A2SV_cp/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/boanergaes/A2SV_cp/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/boanergaes/A2SV_cp/tree/master/1472-design-browser-history) |
