@@ -5,13 +5,16 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def __init__(self):
-        self.arr = []
-
     def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        if not root:
-            return []
-        self.postorderTraversal(root.left)
-        self.postorderTraversal(root.right)
-        self.arr.append(root.val)
-        return self.arr
+        arr = []
+
+        def dfs(root):
+            if not root:
+                return
+            dfs(root.left)
+            dfs(root.right)
+            arr.append(root.val)
+
+        dfs(root)
+        
+        return arr
