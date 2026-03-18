@@ -331,6 +331,7 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/boanergaes/A2SV_cp/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/boanergaes/A2SV_cp/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/boanergaes/A2SV_cp/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/boanergaes/A2SV_cp/tree/master/1472-design-browser-history) |
@@ -363,4 +364,16 @@ competitive programming - DSA - A2SV
 | [0933-number-of-recent-calls](https://github.com/boanergaes/A2SV_cp/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/boanergaes/A2SV_cp/tree/master/1472-design-browser-history) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/boanergaes/A2SV_cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
