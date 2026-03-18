@@ -26,6 +26,7 @@ competitive programming - DSA - A2SV
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/boanergaes/A2SV_cp/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/boanergaes/A2SV_cp/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/boanergaes/A2SV_cp/tree/master/0523-continuous-subarray-sum) |
+| [0641-design-circular-deque](https://github.com/boanergaes/A2SV_cp/tree/master/0641-design-circular-deque) |
 | [0661-image-smoother](https://github.com/boanergaes/A2SV_cp/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/boanergaes/A2SV_cp/tree/master/0722-remove-comments) |
 | [0739-daily-temperatures](https://github.com/boanergaes/A2SV_cp/tree/master/0739-daily-temperatures) |
@@ -205,6 +206,7 @@ competitive programming - DSA - A2SV
 | [0303-range-sum-query-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
+| [0641-design-circular-deque](https://github.com/boanergaes/A2SV_cp/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/boanergaes/A2SV_cp/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/boanergaes/A2SV_cp/tree/master/1472-design-browser-history) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/boanergaes/A2SV_cp/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -254,6 +256,7 @@ competitive programming - DSA - A2SV
 ## Queue
 |  |
 | ------- |
+| [0641-design-circular-deque](https://github.com/boanergaes/A2SV_cp/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/boanergaes/A2SV_cp/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/boanergaes/A2SV_cp/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/boanergaes/A2SV_cp/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -329,6 +332,7 @@ competitive programming - DSA - A2SV
 | [0142-linked-list-cycle-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/boanergaes/A2SV_cp/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/boanergaes/A2SV_cp/tree/master/0328-odd-even-linked-list) |
+| [0641-design-circular-deque](https://github.com/boanergaes/A2SV_cp/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/boanergaes/A2SV_cp/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/boanergaes/A2SV_cp/tree/master/1472-design-browser-history) |
 | [2487-remove-nodes-from-linked-list](https://github.com/boanergaes/A2SV_cp/tree/master/2487-remove-nodes-from-linked-list) |
