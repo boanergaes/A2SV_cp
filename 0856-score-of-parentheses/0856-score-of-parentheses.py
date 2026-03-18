@@ -8,8 +8,8 @@ class Solution:
             if b == '(':
                 stack.append(b)
             else:
-                if s[i-1] == '(':
-                    score += 2**(len(stack) - 1)
                 stack.pop()
-
+                if s[i-1] == '(':
+                    score += 2**(len(stack))
+        
         return score
