@@ -6,7 +6,18 @@
 #         self.right = right
 class Solution:
     def sumEvenGrandparent(self, root: Optional[TreeNode]) -> int:
-        if not root or not ((root.left and (root.left.left or root.left.right)) or (root.right and (root.right.left or root.right.right))):
+        if not root:
+            return 0
+
+        no_grand_child_on_left = True
+        no_grand_child_on_right = True
+
+        if root.left and (root.left.left or root.left.right):
+            no_grand_child_on_left = False
+        if root.right and (root.right.left or root.right.right):
+            no_grand_child_on_right = False
+
+        if no_grand_child_on_left and no_grand_child_on_right:
             return 0
         
         tot = 0
