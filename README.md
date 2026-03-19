@@ -387,12 +387,14 @@ competitive programming - DSA - A2SV
 | [0144-binary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/boanergaes/A2SV_cp/tree/master/0450-delete-node-in-a-bst) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0145-binary-tree-postorder-traversal) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
 | ------- |
@@ -400,10 +402,12 @@ competitive programming - DSA - A2SV
 | [0144-binary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/boanergaes/A2SV_cp/tree/master/0450-delete-node-in-a-bst) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Search Tree
 |  |
 | ------- |
