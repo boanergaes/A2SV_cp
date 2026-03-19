@@ -383,6 +383,7 @@ competitive programming - DSA - A2SV
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0145-binary-tree-postorder-traversal) |
@@ -391,6 +392,7 @@ competitive programming - DSA - A2SV
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0145-binary-tree-postorder-traversal) |
@@ -398,6 +400,7 @@ competitive programming - DSA - A2SV
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0145-binary-tree-postorder-traversal) |
@@ -406,6 +409,7 @@ competitive programming - DSA - A2SV
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Search Tree
