@@ -316,6 +316,7 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/boanergaes/A2SV_cp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0572-subtree-of-another-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -388,6 +389,7 @@ competitive programming - DSA - A2SV
 | [0144-binary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/boanergaes/A2SV_cp/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0572-subtree-of-another-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
@@ -396,6 +398,7 @@ competitive programming - DSA - A2SV
 | [0104-maximum-depth-of-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0572-subtree-of-another-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
@@ -405,6 +408,7 @@ competitive programming - DSA - A2SV
 | [0144-binary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/boanergaes/A2SV_cp/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0572-subtree-of-another-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
@@ -416,4 +420,8 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/boanergaes/A2SV_cp/tree/master/0450-delete-node-in-a-bst) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
