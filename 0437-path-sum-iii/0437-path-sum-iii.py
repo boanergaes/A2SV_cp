@@ -11,16 +11,14 @@ class Solution:
                 return
             
             curr_sum = prev_sum + root.val
-
             self.count += self.freq.get(curr_sum - targetSum, 0)
-
             self.freq[curr_sum] += 1
 
             dfs(root.left, curr_sum)
             dfs(root.right, curr_sum)
 
             self.freq[curr_sum] -= 1
-        
+
         self.freq = defaultdict(int, {0: 1})
         self.count = 0
 
