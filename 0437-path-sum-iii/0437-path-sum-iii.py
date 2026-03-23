@@ -6,10 +6,6 @@
 #         self.right = right
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
-        self.freq = defaultdict(int)
-        self.freq[0] = 1
-        self.count = 0
-
         def dfs(root, prev_sum):
             if not root:
                 return
@@ -25,6 +21,9 @@ class Solution:
 
             self.freq[curr_sum] -= 1
         
+        self.freq = defaultdict(int, {0: 1})
+        self.count = 0
+
         dfs(root, 0)
 
         return self.count
