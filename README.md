@@ -100,11 +100,13 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0053-maximum-subarray](https://github.com/boanergaes/A2SV_cp/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/boanergaes/A2SV_cp/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/boanergaes/A2SV_cp/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/boanergaes/A2SV_cp/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/boanergaes/A2SV_cp/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/boanergaes/A2SV_cp/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0229-majority-element-ii) |
@@ -228,6 +230,7 @@ competitive programming - DSA - A2SV
 | [0019-remove-nth-node-from-end-of-list](https://github.com/boanergaes/A2SV_cp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/boanergaes/A2SV_cp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/boanergaes/A2SV_cp/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/boanergaes/A2SV_cp/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/boanergaes/A2SV_cp/tree/master/0633-sum-of-square-numbers) |
@@ -339,6 +342,7 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/boanergaes/A2SV_cp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/boanergaes/A2SV_cp/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/boanergaes/A2SV_cp/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/boanergaes/A2SV_cp/tree/master/0328-odd-even-linked-list) |
 | [0641-design-circular-deque](https://github.com/boanergaes/A2SV_cp/tree/master/0641-design-circular-deque) |
@@ -443,4 +447,8 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0046-permutations](https://github.com/boanergaes/A2SV_cp/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/boanergaes/A2SV_cp/tree/master/0077-combinations) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/boanergaes/A2SV_cp/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
