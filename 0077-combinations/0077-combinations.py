@@ -1,22 +1,22 @@
 class Solution:
     def combine(self, n: int, k: int):
         nums = [i + 1 for i in range(n)]
-        combinations = set()
-        path = set()
+        combinations = []
+        path = []
 
         def explore(children):
             if len(path) == k:
-                combinations.add(tuple(path.copy()))
+                combinations.append(tuple(path.copy()))
                 return
             if not children:
                 if len(path) == k:
-                    combinations.add(tuple(path.copy()))
+                    combinations.append(tuple(path.copy()))
                 return
 
             for i in range(len(children)):
-                path.add(children[i])
+                path.append(children[i])
                 explore(children[i+1:])
-                path.remove(children[i])
+                path.pop()
                 
 
         explore(nums)
