@@ -7,6 +7,7 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/boanergaes/A2SV_cp/tree/master/0011-container-with-most-water) |
+| [0046-permutations](https://github.com/boanergaes/A2SV_cp/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/boanergaes/A2SV_cp/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/boanergaes/A2SV_cp/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/boanergaes/A2SV_cp/tree/master/0055-jump-game) |
@@ -437,4 +438,8 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/boanergaes/A2SV_cp/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
