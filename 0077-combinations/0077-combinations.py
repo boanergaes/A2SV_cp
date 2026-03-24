@@ -1,20 +1,19 @@
 class Solution:
     def combine(self, n: int, k: int):
-        nums = [i + 1 for i in range(n)]
         combinations = []
         path = []
 
-        def explore(children):
+        def explore(c):
             if len(path) == k:
                 combinations.append(path[:])
                 return
 
-            for i in range(len(children)):
-                path.append(children[i])
-                explore(children[i+1:])
+            for i in range(c, n+1):
+                path.append(i)
+                explore(i + 1)
                 path.pop()
                 
 
-        explore(nums)
+        explore(1)
 
         return combinations
