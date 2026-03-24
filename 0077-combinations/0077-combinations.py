@@ -6,11 +6,7 @@ class Solution:
 
         def explore(children):
             if len(path) == k:
-                combinations.append(tuple(path.copy()))
-                return
-            if not children:
-                if len(path) == k:
-                    combinations.append(tuple(path.copy()))
+                combinations.append(path[:])
                 return
 
             for i in range(len(children)):
@@ -21,4 +17,4 @@ class Solution:
 
         explore(nums)
 
-        return [list(combination) for combination in combinations]
+        return combinations
