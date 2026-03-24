@@ -352,6 +352,7 @@ competitive programming - DSA - A2SV
 | [0145-binary-tree-postorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/boanergaes/A2SV_cp/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/boanergaes/A2SV_cp/tree/master/0496-next-greater-element-i) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/boanergaes/A2SV_cp/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/boanergaes/A2SV_cp/tree/master/0856-score-of-parentheses) |
 | [1472-design-browser-history](https://github.com/boanergaes/A2SV_cp/tree/master/1472-design-browser-history) |
@@ -397,6 +398,7 @@ competitive programming - DSA - A2SV
 | [0437-path-sum-iii](https://github.com/boanergaes/A2SV_cp/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/boanergaes/A2SV_cp/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
@@ -407,6 +409,7 @@ competitive programming - DSA - A2SV
 | [0145-binary-tree-postorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/boanergaes/A2SV_cp/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
