@@ -7,10 +7,10 @@ class Solution:
             for i in range(len(children)):
                 path.append(children[i])
                 explore(children[:i] + children[i+1:])
-                path.remove(children[i])
+                path.pop()
                 
             if not children:
-                permutations.append(deepcopy(path))
+                permutations.append(path.copy())
 
         explore(nums)
 
