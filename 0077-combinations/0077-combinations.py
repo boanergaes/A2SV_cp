@@ -8,7 +8,7 @@ class Solution:
                 combinations.append(path[:])
                 return
 
-            for i in range(c, n+1):
+            for i in range(c, n - (k - len(path)) + 2):
                 path.append(i)
                 explore(i + 1)
                 path.pop()
