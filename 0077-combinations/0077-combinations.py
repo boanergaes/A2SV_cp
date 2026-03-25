@@ -3,16 +3,19 @@ class Solution:
         combinations = []
         path = []
 
-        def explore(c):
+        def explore(i):
             if len(path) == k:
                 combinations.append(path[:])
                 return
+            if i > n:
+                return
 
-            for i in range(c, n - (k - len(path)) + 2):
-                path.append(i)
-                explore(i + 1)
-                path.pop()
-                
+            path.append(i)
+            explore(i + 1)
+            path.pop()
+
+            explore(i + 1)
+            
 
         explore(1)
 
