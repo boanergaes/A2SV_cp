@@ -19,4 +19,3 @@ for _ in range(t):
         right[num] -= 1
         
     print(costs)
-    
