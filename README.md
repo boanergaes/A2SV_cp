@@ -12,6 +12,7 @@ competitive programming - DSA - A2SV
 | [0053-maximum-subarray](https://github.com/boanergaes/A2SV_cp/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/boanergaes/A2SV_cp/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/boanergaes/A2SV_cp/tree/master/0073-set-matrix-zeroes) |
+| [0090-subsets-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/boanergaes/A2SV_cp/tree/master/0128-longest-consecutive-sequence) |
@@ -282,6 +283,7 @@ competitive programming - DSA - A2SV
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/boanergaes/A2SV_cp/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/boanergaes/A2SV_cp/tree/master/0338-counting-bits) |
 | [2305-fair-distribution-of-cookies](https://github.com/boanergaes/A2SV_cp/tree/master/2305-fair-distribution-of-cookies) |
@@ -454,6 +456,7 @@ competitive programming - DSA - A2SV
 | [0017-letter-combinations-of-a-phone-number](https://github.com/boanergaes/A2SV_cp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/boanergaes/A2SV_cp/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/boanergaes/A2SV_cp/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0090-subsets-ii) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/boanergaes/A2SV_cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2305-fair-distribution-of-cookies](https://github.com/boanergaes/A2SV_cp/tree/master/2305-fair-distribution-of-cookies) |
 ## Merge Sort
