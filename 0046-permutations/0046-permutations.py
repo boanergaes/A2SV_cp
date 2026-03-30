@@ -3,15 +3,17 @@ class Solution:
         permutations = []
         path = []
 
-        def explore(children):
-            for i in range(len(children)):
-                path.append(children[i])
-                explore(children[:i] + children[i+1:])
-                path.pop()
-                
-            if not children:
-                permutations.append(path.copy())
+        def permute(child):
+            if not child:
+                permutations.append(path[:])
+                return
 
-        explore(nums)
+            for i in range(len(child)):
+                path.append(child[i])
+                permute(child[:i] + child[i+1:])
+                path.pop()
+
+            
+        permute(nums)
 
         return permutations
