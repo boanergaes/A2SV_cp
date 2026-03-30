@@ -14,7 +14,7 @@ class Solution:
             # if min_unfair <= max(dist): return
             
             for j in range(k):
-                if dist[j] + cookies[i] > min_unfair:
+                if dist[j] + cookies[i] >= min_unfair:
                     continue
 
                 dist[j] += cookies[i]
