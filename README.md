@@ -255,6 +255,7 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/boanergaes/A2SV_cp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/boanergaes/A2SV_cp/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/boanergaes/A2SV_cp/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/boanergaes/A2SV_cp/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/boanergaes/A2SV_cp/tree/master/0704-binary-search) |
@@ -483,4 +484,8 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/boanergaes/A2SV_cp/tree/master/2305-fair-distribution-of-cookies) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/boanergaes/A2SV_cp/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
