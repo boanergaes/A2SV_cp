@@ -1,21 +1,22 @@
 class Solution:
     def findSubsequences(self, nums: List[int]) -> List[List[int]]:
         n = len(nums)
-        subsequence = set()
+        subsequence = []
 
         def backtrack(i, path):
             if len(path) >= 2:
-                for k in range(1, len(path)):
-                    if path[k] < path[k-1]:
-                        break
-                else:
-                    subsequence.add(tuple(path))
+                subsequence.append(path[:])
 
+            seen = set()
             for j in range(i, n):
+                if nums[j] in seen or (path and nums[j] < path[-1]):
+                    continue
+                seen.add(nums[j])
+
                 path.append(nums[j])
                 backtrack(j+1, path)
                 path.pop()
 
         backtrack(0, [])
 
-        return list(subsequence)
+        return subsequence
