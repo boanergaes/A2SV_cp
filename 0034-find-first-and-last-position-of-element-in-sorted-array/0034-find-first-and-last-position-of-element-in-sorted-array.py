@@ -11,10 +11,11 @@ class Solution:
             elif target > nums[mid]:
                 low = mid + 1
             else:
-                while nums[low] != target:
-                    low += 1
-                while nums[high] != target:
-                    high -= 1
-                return [low, high]
+                low = high = mid
+                while low >= 0 and nums[low] == target:
+                    low -= 1
+                while high < len(nums) and nums[high] == target:
+                    high += 1
+                return [low + 1, high - 1]
 
         return [-1, -1]
