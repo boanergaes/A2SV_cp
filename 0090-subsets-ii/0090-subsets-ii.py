@@ -6,15 +6,19 @@ class Solution:
         path = []
 
         def backtrack(i):
-            powerSet.append(path[:])
             
-            for j in range(i, n):
-                if j > i and nums[j] == nums[j-1]:
-                    continue
-                    
-                path.append(nums[j])
-                backtrack(j+1)
-                path.pop()
+            if i == n:
+                powerSet.append(path[:])
+                return
+
+            path.append(nums[i])
+            backtrack(i+1)
+            path.pop()
+
+            while i < n-1 and nums[i] == nums[i+1]:
+                i += 1
+
+            backtrack(i+1)
 
         backtrack(0)
 
