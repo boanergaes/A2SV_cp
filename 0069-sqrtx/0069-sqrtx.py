@@ -6,9 +6,10 @@ class Solution:
         while low <= high:
             mid = (low + high) // 2
 
-            if mid * mid > x:
+            sqr = mid * mid
+            if sqr > x:
                 high = mid - 1
-            elif mid * mid < x:
+            elif sqr < x:
                 low = mid + 1
             else:
                 return mid
