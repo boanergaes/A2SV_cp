@@ -1,11 +1,15 @@
 class Solution:
     def findSubsequences(self, nums: List[int]) -> List[List[int]]:
         n = len(nums)
-        subsequence = set()
+        subsequence = []
+        used = set()
 
         def backtrack(i, path):
             if len(path) >= 2:
-                subsequence.add(tuple(path))
+                t = tuple(path)
+                if t not in used:
+                    subsequence.append(path[:])
+                    used.add(t)
 
             while i < n and path and nums[i] < path[-1]:
                 i += 1
@@ -21,4 +25,4 @@ class Solution:
 
         backtrack(0, [])
 
-        return list(subsequence)
+        return subsequence
