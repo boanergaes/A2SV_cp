@@ -7,6 +7,7 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/boanergaes/A2SV_cp/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/boanergaes/A2SV_cp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/boanergaes/A2SV_cp/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/boanergaes/A2SV_cp/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/boanergaes/A2SV_cp/tree/master/0053-maximum-subarray) |
@@ -251,6 +252,7 @@ competitive programming - DSA - A2SV
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/boanergaes/A2SV_cp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/boanergaes/A2SV_cp/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/boanergaes/A2SV_cp/tree/master/0704-binary-search) |
