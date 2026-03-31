@@ -1,12 +1,20 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        idx = [-1, -1]
-        for i in range(len(nums)):
-            if idx[0] != -1 and nums[i] == target:
-                idx[1] = i
-            elif nums[i] == target and idx[0] == -1:
-                idx = [i, i]
-            if nums[i] > target:
-                return idx
+        low = 0
+        high = len(nums) - 1
 
-        return idx
+        while low <= high:
+            mid = (low + high) // 2
+
+            if  target < nums[mid]:
+                high = mid - 1
+            elif target > nums[mid]:
+                low = mid + 1
+            else:
+                while nums[low] != target:
+                    low += 1
+                while nums[high] != target:
+                    high -= 1
+                return [low, high]
+
+        return [-1, -1]
