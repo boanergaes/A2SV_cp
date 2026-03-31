@@ -32,6 +32,7 @@ competitive programming - DSA - A2SV
 | [0523-continuous-subarray-sum](https://github.com/boanergaes/A2SV_cp/tree/master/0523-continuous-subarray-sum) |
 | [0641-design-circular-deque](https://github.com/boanergaes/A2SV_cp/tree/master/0641-design-circular-deque) |
 | [0661-image-smoother](https://github.com/boanergaes/A2SV_cp/tree/master/0661-image-smoother) |
+| [0704-binary-search](https://github.com/boanergaes/A2SV_cp/tree/master/0704-binary-search) |
 | [0722-remove-comments](https://github.com/boanergaes/A2SV_cp/tree/master/0722-remove-comments) |
 | [0739-daily-temperatures](https://github.com/boanergaes/A2SV_cp/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/boanergaes/A2SV_cp/tree/master/0860-lemonade-change) |
@@ -252,6 +253,7 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/boanergaes/A2SV_cp/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/boanergaes/A2SV_cp/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/boanergaes/A2SV_cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
