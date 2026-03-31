@@ -8,10 +8,11 @@ class Solution:
         def backtrack(i):
             powerSet.append(path[:])
             
+            seen  = set()
             for j in range(i, n):
-                if j > i and nums[j] == nums[j-1]:
+                if nums[j] in seen:
                     continue
-
+                seen.add(nums[j])
                 path.append(nums[j])
                 backtrack(j+1)
                 path.pop()
