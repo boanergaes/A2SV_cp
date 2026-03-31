@@ -191,6 +191,7 @@ competitive programming - DSA - A2SV
 | [0791-custom-sort-string](https://github.com/boanergaes/A2SV_cp/tree/master/0791-custom-sort-string) |
 | [0856-score-of-parentheses](https://github.com/boanergaes/A2SV_cp/tree/master/0856-score-of-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/boanergaes/A2SV_cp/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1598-crawler-log-folder](https://github.com/boanergaes/A2SV_cp/tree/master/1598-crawler-log-folder) |
 | [1657-determine-if-two-strings-are-close](https://github.com/boanergaes/A2SV_cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/boanergaes/A2SV_cp/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -461,6 +462,7 @@ competitive programming - DSA - A2SV
 | [0077-combinations](https://github.com/boanergaes/A2SV_cp/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0090-subsets-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/boanergaes/A2SV_cp/tree/master/0491-non-decreasing-subsequences) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/boanergaes/A2SV_cp/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/boanergaes/A2SV_cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2305-fair-distribution-of-cookies](https://github.com/boanergaes/A2SV_cp/tree/master/2305-fair-distribution-of-cookies) |
 ## Merge Sort
