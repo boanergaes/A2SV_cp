@@ -1,6 +1,7 @@
 class Solution:
     def getHappyString(self, n: int, k: int) -> str:
-        permutations = []
+        count = 0
+        ans = ''
         path = []
         ref = {
             'a': ['b', 'c'],
@@ -9,8 +10,16 @@ class Solution:
         }
 
         def backtrack(child):
+            nonlocal count
+            nonlocal ans
+
+            if count >= k:
+                return
+
             if len(path) == n:
-                permutations.append(''.join(path))
+                count += 1
+                if count == k:
+                    ans = ''.join(path)
                 return
             
             for i in range(len(child)):
@@ -20,4 +29,4 @@ class Solution:
         
         backtrack(['a', 'b', 'c'])
 
-        return permutations[k-1] if k <= len(permutations) else ''
+        return ans
