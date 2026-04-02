@@ -198,6 +198,7 @@ competitive programming - DSA - A2SV
 | [1657-determine-if-two-strings-are-close](https://github.com/boanergaes/A2SV_cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/boanergaes/A2SV_cp/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/boanergaes/A2SV_cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/boanergaes/A2SV_cp/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2381-shifting-letters-ii](https://github.com/boanergaes/A2SV_cp/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/boanergaes/A2SV_cp/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/boanergaes/A2SV_cp/tree/master/2418-sort-the-people) |
@@ -322,6 +323,7 @@ competitive programming - DSA - A2SV
 | [1029-two-city-scheduling](https://github.com/boanergaes/A2SV_cp/tree/master/1029-two-city-scheduling) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/boanergaes/A2SV_cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2007-find-original-array-from-doubled-array](https://github.com/boanergaes/A2SV_cp/tree/master/2007-find-original-array-from-doubled-array) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/boanergaes/A2SV_cp/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -381,6 +383,7 @@ competitive programming - DSA - A2SV
 | [0856-score-of-parentheses](https://github.com/boanergaes/A2SV_cp/tree/master/0856-score-of-parentheses) |
 | [1472-design-browser-history](https://github.com/boanergaes/A2SV_cp/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/boanergaes/A2SV_cp/tree/master/1598-crawler-log-folder) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/boanergaes/A2SV_cp/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/boanergaes/A2SV_cp/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/boanergaes/A2SV_cp/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -472,6 +475,7 @@ competitive programming - DSA - A2SV
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/boanergaes/A2SV_cp/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/boanergaes/A2SV_cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2305-fair-distribution-of-cookies](https://github.com/boanergaes/A2SV_cp/tree/master/2305-fair-distribution-of-cookies) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/boanergaes/A2SV_cp/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Merge Sort
 |  |
 | ------- |
