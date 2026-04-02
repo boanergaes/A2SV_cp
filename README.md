@@ -8,6 +8,7 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0011-container-with-most-water](https://github.com/boanergaes/A2SV_cp/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/boanergaes/A2SV_cp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/boanergaes/A2SV_cp/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/boanergaes/A2SV_cp/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/boanergaes/A2SV_cp/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/boanergaes/A2SV_cp/tree/master/0053-maximum-subarray) |
@@ -255,6 +256,7 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/boanergaes/A2SV_cp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/boanergaes/A2SV_cp/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/boanergaes/A2SV_cp/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/boanergaes/A2SV_cp/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
