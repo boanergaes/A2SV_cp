@@ -18,6 +18,7 @@ competitive programming - DSA - A2SV
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/boanergaes/A2SV_cp/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/boanergaes/A2SV_cp/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/boanergaes/A2SV_cp/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0229-majority-element-ii) |
@@ -75,6 +76,7 @@ competitive programming - DSA - A2SV
 | [0073-set-matrix-zeroes](https://github.com/boanergaes/A2SV_cp/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/boanergaes/A2SV_cp/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/boanergaes/A2SV_cp/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/boanergaes/A2SV_cp/tree/master/0217-contains-duplicate) |
@@ -183,6 +185,7 @@ competitive programming - DSA - A2SV
 | [0017-letter-combinations-of-a-phone-number](https://github.com/boanergaes/A2SV_cp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/boanergaes/A2SV_cp/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/boanergaes/A2SV_cp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0140-word-break-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/boanergaes/A2SV_cp/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/boanergaes/A2SV_cp/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/boanergaes/A2SV_cp/tree/master/0290-word-pattern) |
@@ -309,6 +312,7 @@ competitive programming - DSA - A2SV
 | [0053-maximum-subarray](https://github.com/boanergaes/A2SV_cp/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/boanergaes/A2SV_cp/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0118-pascals-triangle) |
+| [0140-word-break-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0140-word-break-ii) |
 | [0338-counting-bits](https://github.com/boanergaes/A2SV_cp/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/boanergaes/A2SV_cp/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/boanergaes/A2SV_cp/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -407,6 +411,7 @@ competitive programming - DSA - A2SV
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/boanergaes/A2SV_cp/tree/master/0509-fibonacci-number) |
 ## Doubly-Linked List
 |  |
@@ -475,6 +480,7 @@ competitive programming - DSA - A2SV
 | [0046-permutations](https://github.com/boanergaes/A2SV_cp/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/boanergaes/A2SV_cp/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0090-subsets-ii) |
+| [0140-word-break-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0140-word-break-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/boanergaes/A2SV_cp/tree/master/0491-non-decreasing-subsequences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/boanergaes/A2SV_cp/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/boanergaes/A2SV_cp/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
@@ -496,4 +502,8 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/boanergaes/A2SV_cp/tree/master/0278-first-bad-version) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
