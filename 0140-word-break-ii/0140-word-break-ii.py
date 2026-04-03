@@ -7,26 +7,25 @@ class Solution:
         def backtrack(i, word, sentence):
             if i == n:
                 count = 0
-                for word in sentence:
-                    count += len(word)
+                for w in sentence:
+                    count += len(w)
 
                 if count == n:
                     possible.append(' '.join(sentence))
                 return
 
-            word.append(s[i])
-            w = ''.join(word)
+            word += s[i]
 
-            if w in wordDict:
-                sentence.append(w)
-                backtrack(i + 1, [], sentence)
+            if word in wordDict:
+                sentence.append(word)
+                backtrack(i + 1, '', sentence)
                 sentence.pop()
 
                 backtrack(i + 1, word, sentence)
             else:
                 backtrack(i + 1, word, sentence)
 
-        backtrack(0, [], [])
+        backtrack(0, '', [])
 
         return possible
 
