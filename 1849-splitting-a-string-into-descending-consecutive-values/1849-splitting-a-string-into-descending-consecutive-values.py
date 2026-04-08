@@ -2,20 +2,21 @@ class Solution:
     def splitString(self, s: str) -> bool:
         n = len(s)
 
-        def explore(path, i):
+        def backtrack(i, curr, seq):
+            if len(seq) >= 2 and seq[-2] - seq[-1] != 1:
+                return False
             if i == n:
-                for j in range(1, len(path)):
-                    if path[j] != path[j-1] - 1:
-                        return False
-                return len(path) >= 2
+                return len(seq) >= 2
 
-            for j in range(i, n):
-                path.append(int(s[i:j+1]))
-                if explore(path, j+1):
-                    return True
-                path.pop()
+            curr = curr * 10 + int(s[i])
+            seq.append(curr)
+            val1 = backtrack(i+1, 0, seq)
+            seq.pop()
 
-            return False
+            val2 = False
+            if i < n - 1:
+                val2 = backtrack(i+1, curr, seq)
 
+            return val1 or val2
 
-        return explore([], 0)
+        return backtrack(0, 0, [])
