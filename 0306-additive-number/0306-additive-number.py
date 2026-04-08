@@ -1,13 +1,18 @@
 class Solution:
     def isAdditiveNumber(self, num: str) -> bool:
         n = len(num)
+        solved = False
 
         def backtrack(i, curr, seq):
+            nonlocal solved
+            if solved:
+                return True
             if len(seq) > 0 and (len(seq[-1]) > 1 and seq[-1][0] == '0'):
                 return False
             if len(seq) >= 3 and int(seq[-3]) + int(seq[-2]) != int(seq[-1]):
                 return False
             if i == n:
+                solved = len(seq) >= 3
                 return len(seq) >= 3
             
             curr += num[i]
