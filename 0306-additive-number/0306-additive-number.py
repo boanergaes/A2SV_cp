@@ -7,7 +7,7 @@ class Solution:
             nonlocal solved
             if solved:
                 return True
-            if len(seq) > 0 and (len(seq[-1]) > 1 and seq[-1][0] == '0'):
+            if len(curr) > 0 and curr[0] == '0':
                 return False
             if len(seq) >= 3 and int(seq[-3]) + int(seq[-2]) != int(seq[-1]):
                 return False
