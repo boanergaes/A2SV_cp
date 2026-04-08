@@ -34,6 +34,7 @@ competitive programming - DSA - A2SV
 | [0496-next-greater-element-i](https://github.com/boanergaes/A2SV_cp/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/boanergaes/A2SV_cp/tree/master/0523-continuous-subarray-sum) |
 | [0641-design-circular-deque](https://github.com/boanergaes/A2SV_cp/tree/master/0641-design-circular-deque) |
+| [0654-maximum-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0654-maximum-binary-tree) |
 | [0661-image-smoother](https://github.com/boanergaes/A2SV_cp/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/boanergaes/A2SV_cp/tree/master/0704-binary-search) |
 | [0722-remove-comments](https://github.com/boanergaes/A2SV_cp/tree/master/0722-remove-comments) |
@@ -114,6 +115,7 @@ competitive programming - DSA - A2SV
 | [0148-sort-list](https://github.com/boanergaes/A2SV_cp/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/boanergaes/A2SV_cp/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0654-maximum-binary-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -388,6 +390,7 @@ competitive programming - DSA - A2SV
 | [0394-decode-string](https://github.com/boanergaes/A2SV_cp/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/boanergaes/A2SV_cp/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/boanergaes/A2SV_cp/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/boanergaes/A2SV_cp/tree/master/0856-score-of-parentheses) |
 | [1472-design-browser-history](https://github.com/boanergaes/A2SV_cp/tree/master/1472-design-browser-history) |
@@ -399,6 +402,7 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/boanergaes/A2SV_cp/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/boanergaes/A2SV_cp/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/boanergaes/A2SV_cp/tree/master/2487-remove-nodes-from-linked-list) |
 ## Ordered Set
@@ -436,6 +440,7 @@ competitive programming - DSA - A2SV
 | [0450-delete-node-in-a-bst](https://github.com/boanergaes/A2SV_cp/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0654-maximum-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
@@ -459,6 +464,7 @@ competitive programming - DSA - A2SV
 | [0437-path-sum-iii](https://github.com/boanergaes/A2SV_cp/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/boanergaes/A2SV_cp/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0654-maximum-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
