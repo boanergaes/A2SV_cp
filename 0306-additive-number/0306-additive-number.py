@@ -5,10 +5,10 @@ class Solution:
         def backtrack(i, curr, seq):
             if len(seq) > 0 and (len(seq[-1]) > 1 and seq[-1][0] == '0'):
                 return False
-            if len(seq) > 3 and int(seq[-4]) + int(seq[-3]) != int(seq[-2]):
+            if len(seq) >= 3 and int(seq[-3]) + int(seq[-2]) != int(seq[-1]):
                 return False
             if i == n:
-                return len(seq) >= 3 and int(seq[-3]) + int(seq[-2]) == int(seq[-1])
+                return len(seq) >= 3
             
             curr += num[i]
             seq.append(curr)
