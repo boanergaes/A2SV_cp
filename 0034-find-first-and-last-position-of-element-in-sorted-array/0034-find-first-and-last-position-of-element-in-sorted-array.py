@@ -1,21 +1,29 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        low = 0
-        high = len(nums) - 1
+        def find_lower():
+            left = 0
+            right = len(nums) - 1
 
-        while low <= high:
-            mid = (low + high) // 2
+            while left <= right:
+                mid = left + (right - left) // 2
+                if nums[mid] >= target:
+                    right = mid - 1
+                else:
+                    left = mid + 1
 
-            if  target < nums[mid]:
-                high = mid - 1
-            elif target > nums[mid]:
-                low = mid + 1
-            else:
-                low = high = mid
-                while low >= 0 and nums[low] == target:
-                    low -= 1
-                while high < len(nums) and nums[high] == target:
-                    high += 1
-                return [low + 1, high - 1]
+            return left if left < len(nums) and nums[left] == target else -1
+        
+        def find_upper():
+            left = 0
+            right = len(nums) - 1
 
-        return [-1, -1]
+            while left <= right:
+                mid = left + (right - left) // 2
+                if nums[mid] > target:
+                    right = mid - 1
+                else:
+                    left = mid + 1
+
+            return right if right >= 0 and nums[right] == target else -1
+        
+        return [ find_lower(), find_upper()]
