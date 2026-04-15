@@ -1,7 +1,7 @@
 class Solution:
     def mySqrt(self, x: int) -> int:
         low = 0
-        high = x
+        high = x // 2 + 1
 
         while low <= high:
             mid = low + (high - low) // 2
