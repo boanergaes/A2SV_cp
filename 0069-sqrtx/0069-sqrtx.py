@@ -8,7 +8,9 @@ class Solution:
 
             if mid * mid > x:
                 high = mid - 1
-            else:
+            elif mid * mid < x:
                 low = mid + 1
+            else:
+                return mid
 
         return high
