@@ -4,11 +4,10 @@ class Solution:
         def valid(k):
             hours = 0
             for p in piles:
-                if p % k == 0:
-                    hours += p // k
-                else:
-                    hours += p // k + 1
-            return h >= hours
+                hours += ceil(p / k)
+                if hours > h:
+                    return False
+            return True
         
         low = 1
         high = max(piles)
