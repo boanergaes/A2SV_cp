@@ -25,6 +25,7 @@ competitive programming - DSA - A2SV
 | [0229-majority-element-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/boanergaes/A2SV_cp/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/boanergaes/A2SV_cp/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/boanergaes/A2SV_cp/tree/master/0347-top-k-frequent-elements) |
@@ -268,6 +269,7 @@ competitive programming - DSA - A2SV
 | [0035-search-insert-position](https://github.com/boanergaes/A2SV_cp/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/boanergaes/A2SV_cp/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/boanergaes/A2SV_cp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0275-h-index-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/boanergaes/A2SV_cp/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/boanergaes/A2SV_cp/tree/master/0633-sum-of-square-numbers) |
