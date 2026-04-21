@@ -33,6 +33,7 @@ competitive programming - DSA - A2SV
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/boanergaes/A2SV_cp/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/boanergaes/A2SV_cp/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/boanergaes/A2SV_cp/tree/master/0475-heaters) |
 | [0491-non-decreasing-subsequences](https://github.com/boanergaes/A2SV_cp/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/boanergaes/A2SV_cp/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/boanergaes/A2SV_cp/tree/master/0523-continuous-subarray-sum) |
@@ -134,6 +135,7 @@ competitive programming - DSA - A2SV
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/boanergaes/A2SV_cp/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/boanergaes/A2SV_cp/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/boanergaes/A2SV_cp/tree/master/0475-heaters) |
 | [0791-custom-sort-string](https://github.com/boanergaes/A2SV_cp/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/boanergaes/A2SV_cp/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0976-largest-perimeter-triangle) |
@@ -258,6 +260,7 @@ competitive programming - DSA - A2SV
 | [0148-sort-list](https://github.com/boanergaes/A2SV_cp/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/boanergaes/A2SV_cp/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
+| [0475-heaters](https://github.com/boanergaes/A2SV_cp/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/boanergaes/A2SV_cp/tree/master/0633-sum-of-square-numbers) |
 | [0763-partition-labels](https://github.com/boanergaes/A2SV_cp/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/boanergaes/A2SV_cp/tree/master/0876-middle-of-the-linked-list) |
@@ -275,6 +278,7 @@ competitive programming - DSA - A2SV
 | [0275-h-index-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/boanergaes/A2SV_cp/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/boanergaes/A2SV_cp/tree/master/0349-intersection-of-two-arrays) |
+| [0475-heaters](https://github.com/boanergaes/A2SV_cp/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/boanergaes/A2SV_cp/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/boanergaes/A2SV_cp/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/boanergaes/A2SV_cp/tree/master/0875-koko-eating-bananas) |
