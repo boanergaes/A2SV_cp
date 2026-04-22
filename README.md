@@ -314,6 +314,7 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/boanergaes/A2SV_cp/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/boanergaes/A2SV_cp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -466,6 +467,7 @@ competitive programming - DSA - A2SV
 | [0572-subtree-of-another-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1971-find-if-path-exists-in-graph](https://github.com/boanergaes/A2SV_cp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -485,6 +487,7 @@ competitive programming - DSA - A2SV
 | [0100-same-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1971-find-if-path-exists-in-graph](https://github.com/boanergaes/A2SV_cp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -527,4 +530,8 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0140-word-break-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/boanergaes/A2SV_cp/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
