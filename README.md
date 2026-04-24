@@ -15,6 +15,7 @@ competitive programming - DSA - A2SV
 | [0053-maximum-subarray](https://github.com/boanergaes/A2SV_cp/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/boanergaes/A2SV_cp/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/boanergaes/A2SV_cp/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/boanergaes/A2SV_cp/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0118-pascals-triangle) |
@@ -275,6 +276,7 @@ competitive programming - DSA - A2SV
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/boanergaes/A2SV_cp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/boanergaes/A2SV_cp/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/boanergaes/A2SV_cp/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/boanergaes/A2SV_cp/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/boanergaes/A2SV_cp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0275-h-index-ii](https://github.com/boanergaes/A2SV_cp/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/boanergaes/A2SV_cp/tree/master/0278-first-bad-version) |
@@ -290,6 +292,7 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0048-rotate-image](https://github.com/boanergaes/A2SV_cp/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/boanergaes/A2SV_cp/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/boanergaes/A2SV_cp/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/boanergaes/A2SV_cp/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/boanergaes/A2SV_cp/tree/master/0304-range-sum-query-2d-immutable) |
 | [0661-image-smoother](https://github.com/boanergaes/A2SV_cp/tree/master/0661-image-smoother) |
