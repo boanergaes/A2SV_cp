@@ -4,11 +4,11 @@ class Solution:
         high = len(nums) - 1
 
         while low <= high:
-            mid = low + (high - low) // 2
+            rotation = low + (high - low) // 2
 
-            if nums[mid] <= nums[-1]:
-                high = mid - 1
+            if nums[rotation] <= nums[-1]:
+                high = rotation - 1
             else:
-                low = mid + 1
+                low = rotation + 1
 
         return nums[low]
