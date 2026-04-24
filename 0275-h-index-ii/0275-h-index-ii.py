@@ -2,10 +2,16 @@ class Solution:
     def hIndex(self, citations: List[int]) -> int:
         n = len(citations)
         def valid(h):
-            i = 0
-            while i < n and citations[i] < h:
-                i += 1
-            return n - i >= h
+            low = 0
+            high = n - 1
+            while low <= high:
+                mid = low + (high - low) // 2
+                if citations[mid] >= h:
+                    high = mid - 1
+                else:
+                    low = mid + 1
+            
+            return n - low >= h
 
         low = 0
         high = citations[-1]
