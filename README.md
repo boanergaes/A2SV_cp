@@ -67,6 +67,7 @@ competitive programming - DSA - A2SV
 | [1823-find-the-winner-of-the-circular-game](https://github.com/boanergaes/A2SV_cp/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/boanergaes/A2SV_cp/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/boanergaes/A2SV_cp/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/boanergaes/A2SV_cp/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2305-fair-distribution-of-cookies](https://github.com/boanergaes/A2SV_cp/tree/master/2305-fair-distribution-of-cookies) |
 | [2381-shifting-letters-ii](https://github.com/boanergaes/A2SV_cp/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/boanergaes/A2SV_cp/tree/master/2418-sort-the-people) |
@@ -287,6 +288,7 @@ competitive programming - DSA - A2SV
 | [0875-koko-eating-bananas](https://github.com/boanergaes/A2SV_cp/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/boanergaes/A2SV_cp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/boanergaes/A2SV_cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/boanergaes/A2SV_cp/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Matrix
 |  |
 | ------- |
