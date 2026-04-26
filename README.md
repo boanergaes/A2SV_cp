@@ -62,6 +62,7 @@ competitive programming - DSA - A2SV
 | [1472-design-browser-history](https://github.com/boanergaes/A2SV_cp/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/boanergaes/A2SV_cp/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/boanergaes/A2SV_cp/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1552-magnetic-force-between-two-balls](https://github.com/boanergaes/A2SV_cp/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/boanergaes/A2SV_cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1598-crawler-log-folder](https://github.com/boanergaes/A2SV_cp/tree/master/1598-crawler-log-folder) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/boanergaes/A2SV_cp/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -144,6 +145,7 @@ competitive programming - DSA - A2SV
 | [0976-largest-perimeter-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/boanergaes/A2SV_cp/tree/master/1029-two-city-scheduling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/boanergaes/A2SV_cp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/boanergaes/A2SV_cp/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/boanergaes/A2SV_cp/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1657-determine-if-two-strings-are-close](https://github.com/boanergaes/A2SV_cp/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/boanergaes/A2SV_cp/tree/master/2007-find-original-array-from-doubled-array) |
@@ -288,6 +290,7 @@ competitive programming - DSA - A2SV
 | [0875-koko-eating-bananas](https://github.com/boanergaes/A2SV_cp/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/boanergaes/A2SV_cp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/boanergaes/A2SV_cp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1552-magnetic-force-between-two-balls](https://github.com/boanergaes/A2SV_cp/tree/master/1552-magnetic-force-between-two-balls) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/boanergaes/A2SV_cp/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Matrix
 |  |
