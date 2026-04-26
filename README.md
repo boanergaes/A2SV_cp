@@ -40,6 +40,7 @@ competitive programming - DSA - A2SV
 | [0496-next-greater-element-i](https://github.com/boanergaes/A2SV_cp/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/boanergaes/A2SV_cp/tree/master/0523-continuous-subarray-sum) |
 | [0641-design-circular-deque](https://github.com/boanergaes/A2SV_cp/tree/master/0641-design-circular-deque) |
+| [0645-set-mismatch](https://github.com/boanergaes/A2SV_cp/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0654-maximum-binary-tree) |
 | [0661-image-smoother](https://github.com/boanergaes/A2SV_cp/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/boanergaes/A2SV_cp/tree/master/0704-binary-search) |
@@ -102,6 +103,7 @@ competitive programming - DSA - A2SV
 | [0491-non-decreasing-subsequences](https://github.com/boanergaes/A2SV_cp/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/boanergaes/A2SV_cp/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/boanergaes/A2SV_cp/tree/master/0523-continuous-subarray-sum) |
+| [0645-set-mismatch](https://github.com/boanergaes/A2SV_cp/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/boanergaes/A2SV_cp/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/boanergaes/A2SV_cp/tree/master/0791-custom-sort-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/boanergaes/A2SV_cp/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -140,6 +142,7 @@ competitive programming - DSA - A2SV
 | [0451-sort-characters-by-frequency](https://github.com/boanergaes/A2SV_cp/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/boanergaes/A2SV_cp/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/boanergaes/A2SV_cp/tree/master/0475-heaters) |
+| [0645-set-mismatch](https://github.com/boanergaes/A2SV_cp/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/boanergaes/A2SV_cp/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/boanergaes/A2SV_cp/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/boanergaes/A2SV_cp/tree/master/0976-largest-perimeter-triangle) |
@@ -333,6 +336,7 @@ competitive programming - DSA - A2SV
 | [0191-number-of-1-bits](https://github.com/boanergaes/A2SV_cp/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/boanergaes/A2SV_cp/tree/master/0338-counting-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/boanergaes/A2SV_cp/tree/master/0491-non-decreasing-subsequences) |
+| [0645-set-mismatch](https://github.com/boanergaes/A2SV_cp/tree/master/0645-set-mismatch) |
 | [2305-fair-distribution-of-cookies](https://github.com/boanergaes/A2SV_cp/tree/master/2305-fair-distribution-of-cookies) |
 ## Dynamic Programming
 |  |
