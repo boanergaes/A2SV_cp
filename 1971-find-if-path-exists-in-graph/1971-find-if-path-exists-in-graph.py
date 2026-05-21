@@ -1,7 +1,7 @@
 class Solution:
     def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
         graph = defaultdict(list)
-        vis = set()
+        vis = set([source])
         stack = [source]
 
         for a, b in edges:
