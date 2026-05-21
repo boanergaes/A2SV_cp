@@ -13,6 +13,7 @@ class Solution:
 
             if curr == destination:
                 return True
+            vis.add(curr)
 
             for nei in graph[curr]:
                 if nei not in vis:
