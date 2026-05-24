@@ -335,6 +335,7 @@ competitive programming - DSA - A2SV
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/boanergaes/A2SV_cp/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/boanergaes/A2SV_cp/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/boanergaes/A2SV_cp/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/boanergaes/A2SV_cp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bit Manipulation
 |  |
@@ -492,6 +493,7 @@ competitive programming - DSA - A2SV
 | [0463-island-perimeter](https://github.com/boanergaes/A2SV_cp/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0785-is-graph-bipartite](https://github.com/boanergaes/A2SV_cp/tree/master/0785-is-graph-bipartite) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/boanergaes/A2SV_cp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -515,6 +517,7 @@ competitive programming - DSA - A2SV
 | [0200-number-of-islands](https://github.com/boanergaes/A2SV_cp/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/boanergaes/A2SV_cp/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/boanergaes/A2SV_cp/tree/master/0463-island-perimeter) |
+| [0785-is-graph-bipartite](https://github.com/boanergaes/A2SV_cp/tree/master/0785-is-graph-bipartite) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/boanergaes/A2SV_cp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
@@ -564,6 +567,7 @@ competitive programming - DSA - A2SV
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/boanergaes/A2SV_cp/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/boanergaes/A2SV_cp/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/boanergaes/A2SV_cp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
