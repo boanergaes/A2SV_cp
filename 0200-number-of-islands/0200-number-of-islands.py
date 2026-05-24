@@ -9,12 +9,13 @@ class Solution:
         def dfs(row, col):
             nonlocal vis
 
+            vis.add((row, col))
+
             for r, c in dir:
                 newr = row + r
                 newc = col + c
 
                 if (newr, newc) not in vis and isbound(newr, newc) and grid[newr][newc] == '1':
-                    vis.add((newr, newc))
                     dfs(newr, newc)
 
         islands = 0
