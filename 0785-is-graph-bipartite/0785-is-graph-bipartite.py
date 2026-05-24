@@ -1,16 +1,18 @@
 class Solution:
     def isBipartite(self, graph: List[List[int]]) -> bool:
-        clrarr = [-1] * len(graph)
+        # -1: unvisited  0: black  1: white
+
+        color_arr = [-1] * len(graph)
 
         def dfs(curr):
-            if clrarr[curr] == -1:            
-                clrarr[curr] = 0
+            if color_arr[curr] == -1:          
+                color_arr[curr] = 0
 
             for nei in graph[curr]:
-                if clrarr[nei] == clrarr[curr]:
+                if color_arr[nei] == color_arr[curr]:
                     return False
-                elif clrarr[nei] == -1:
-                    clrarr[nei] = 1 if clrarr[curr] == 0 else 0
+                elif color_arr[nei] == -1:
+                    color_arr[nei] = 1 if color_arr[curr] == 0 else 0
                     dfs(nei)
 
             return True
