@@ -10,7 +10,8 @@ class Solution:
                     return False
                 elif color_arr[nei] == -1:
                     color_arr[nei] = 1 if color_arr[curr] == 0 else 0
-                    dfs(nei)
+                    if not dfs(nei):
+                        return False
 
             return True
         
