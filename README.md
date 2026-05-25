@@ -479,6 +479,7 @@ competitive programming - DSA - A2SV
 | [0572-subtree-of-another-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0654-maximum-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
@@ -494,6 +495,7 @@ competitive programming - DSA - A2SV
 | [0572-subtree-of-another-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/boanergaes/A2SV_cp/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0785-is-graph-bipartite](https://github.com/boanergaes/A2SV_cp/tree/master/0785-is-graph-bipartite) |
+| [0965-univalued-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/boanergaes/A2SV_cp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -508,6 +510,7 @@ competitive programming - DSA - A2SV
 | [0450-delete-node-in-a-bst](https://github.com/boanergaes/A2SV_cp/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0654-maximum-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
@@ -518,6 +521,7 @@ competitive programming - DSA - A2SV
 | [0207-course-schedule](https://github.com/boanergaes/A2SV_cp/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/boanergaes/A2SV_cp/tree/master/0463-island-perimeter) |
 | [0785-is-graph-bipartite](https://github.com/boanergaes/A2SV_cp/tree/master/0785-is-graph-bipartite) |
+| [0965-univalued-binary-tree](https://github.com/boanergaes/A2SV_cp/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/boanergaes/A2SV_cp/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/boanergaes/A2SV_cp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
