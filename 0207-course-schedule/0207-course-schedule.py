@@ -1,34 +1,29 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        # -1: gray(unvisited)  0: white(expanded)  1: black(finished)
+        color = [-1] * numCourses
         graph = defaultdict(list)
-        # for i in range(numCourses):
-        #     graph[i] = -1
-        for v in prerequisites:
-            graph[v[0]].append(v[1])
 
-        w = 1
-        g = 2
-        b = 3
-        cycle = False
-        color = [w]*numCourses
+        for i, j in prerequisites:
+            graph[i].append(j)
 
-        def dfs(node):
-            nonlocal cycle
-            if cycle:
-                return
+        def iscycle(node):
+            if color[node] == 0:
+                return False
 
-            if node in graph:
-                color[node] = g
-                for nei in graph[node]:
-                    if color[nei] == w:
-                        dfs(nei)
-                    elif color[nei] == g:
-                        cycle = True
-                    
-                color[node] = b
+            color[node] = 0
 
-        for node in graph:
-            if color[node] == w:
-                dfs(node)
-            
-        return not cycle
+            for nei in graph[node]:
+                if color[nei] != 1:
+                    if not iscycle(nei):
+                        return False
+
+            color[node] = 1
+            return True
+
+
+        for node in range(numCourses):
+            if color[node] != 1 and not iscycle(node):
+                return False
+
+        return True
